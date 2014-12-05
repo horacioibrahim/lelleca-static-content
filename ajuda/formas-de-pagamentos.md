@@ -9,7 +9,8 @@ Para acompanhar o andamento do seu pedido [entre](https://lelleca.com/login) na 
 O prazo de postagem poderá variar de acordo com cada item. Ao adicionar um produto veja o destaque chamado "Envio". Será 
 considerado o maior prazo de entrega para a contagem dos dias, assim evitamos que você tenha diversos fretes.
 
-*Descontos especiais*: Se a compra for via depósito, a compra terá um desconto de 10%. Por boleto 5%. 
+**Descontos especiais**: Se a compra for via depósito, a compra terá um desconto de 10%. Por boleto 5%. 
+
 **Observação**: alguns produtos podem ser isentos de descontos especiais. Todas as informações são disponibilizadas antes de finalizada a compra. 
 
 Contato:
