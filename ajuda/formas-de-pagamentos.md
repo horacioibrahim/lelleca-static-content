@@ -11,7 +11,7 @@ considerado o maior prazo de entrega para a contagem dos dias, assim evitamos qu
 
 **Descontos especiais**: Se a compra for via depósito terá um desconto de 10%. Por boleto 5%. 
 
-**Observação**: alguns produtos podem ser isentos de descontos especiais. Todas as informações são disponibilizadas antes de finalizada a compra. 
+**Observação**: Alguns produtos podem ser isentos de descontos especiais. Todas as informações são disponibilizadas antes de finalizada a compra. 
 
 Contato:
 ========
