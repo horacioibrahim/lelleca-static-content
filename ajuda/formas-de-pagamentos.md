@@ -15,12 +15,12 @@ considerado o maior prazo de entrega para a contagem dos dias, assim evitamos qu
 
 Contato:
 ========
+```
 Fan page: [www.facebook.com/LellecaOficial](http://www.facebook.com/LellecaOficial)
 Site: [lelleca.com](http://lelleca.com)
-
 Endereço: Super Quadra Sul 409, Bloco G, Entrada F CEP: 70258-070 \
 (61) 98392053 ou (61) --------
-
 Para melhores informações, em breve disponibilizaremos nossa "Política de entrega".
+```
 
 Boas compras!
