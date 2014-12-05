@@ -1,13 +1,13 @@
 [{
-  'link_label': 'Formas de Pagamento',
-  'raw_url': 'https://raw.githubusercontent.com/horacioibrahim/lelleca-static-content/master/ajuda/formas-de-pagamentos.md'
-  'active': true,
-  'order': 10
+  "link_label": "Formas de Pagamento",
+  "raw_url": "https://raw.githubusercontent.com/horacioibrahim/lelleca-static-content/master/ajuda/formas-de-pagamentos.md",
+  "active": true,
+  "order": 10
 },
 {
-  'link_label': 'Sobre nós',
-  'raw_url': 'https://raw.githubusercontent.com/horacioibrahim/lelleca-static-content/master/ajuda/sobre_nos.md'
-  'active': true,
-  'order': 0
+  "link_label": "Sobre nós",
+  "raw_url": "https://raw.githubusercontent.com/horacioibrahim/lelleca-static-content/master/ajuda/sobre_nos.md",
+  "active": true,
+  "order": 0
 }
 ]
