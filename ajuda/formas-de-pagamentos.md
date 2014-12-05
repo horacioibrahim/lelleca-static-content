@@ -4,7 +4,7 @@ Ajuda > Formas de Pagamentos
 Para realizar uma compra em nossa loja você precisará realizar seu [cadastro](https://lelleca.com/signup). Depois basta adicionar
 os produtos desejados ao seu carrinho. O frete será calculado durante o processo de compra.
 
-Entre na loja com seu e-mail e senha para acompanhar o andamento do seu pedido.
+Para acompanhar o andamento do seu pedido [entre](https://lelleca.com/login) na loja com seu e-mail e senha .
 
 O prazo de postagem poderá variar de acordo com cada item. Ao adicionar um produto veja o destaque chamado "Envio". Será 
 considerado o maior prazo de entrega para a contagem dos dias, assim evitamos que você tenha diversos fretes.
